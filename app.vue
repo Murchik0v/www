@@ -5,7 +5,7 @@
 </template>
 <script setup lang="ts">
 useHead({
-  title: 'mur.su',
+  title: ':3',
   meta: [
     { name: 'description', content: 'Murchikov site.' }
   ],
