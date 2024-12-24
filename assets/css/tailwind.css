@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Onest:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-main;
+}
+
+.bg-main {
+  background-color: #09090b;
+}
+
+.circle {
+    background-color: #D3C8FF;
+    filter: blur(100px);
+    opacity: .6
+}
+
+.circle,.text-purple {
+    --tw-bg-opacity: 1
+}
+
+.text-white{
+    background-color:#b6addb;
+    opacity: .9
+}
