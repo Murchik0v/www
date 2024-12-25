@@ -10,10 +10,10 @@ body {
 .bg-main {
   background-color: #020202;
 }
-uch 
+
 .circle {
     background-color: #D3C8FF;
-    filter: blur(100px);
+    filter: blur(110px);
     opacity: .6
 }
 
