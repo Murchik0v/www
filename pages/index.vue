@@ -10,7 +10,7 @@
   <h1 class="font-[Onest] text-neutral-100 text-4xl font-semibold">hi , i'm <span class="text-white">Murchikov</span></h1>
   <p class="font-[Overpass] text-neutral-500 max-w-3xl font-medium text-lg">
   Hii!  I'm <code v-html="formattedAge"></code> years
-  old. programmer, frontend & more! I go by she/her, and I like to make things on the internet :] I enjoy messing around with hardware too! I also play several video games, some of my favorites include Minecraft, Death Stranding, Valheim, webfishing & More :D
+  old. programmer, frontend & more! I go by he/him, and I like to make things on the internet :] I enjoy messing around with hardware too! I also play several video games, some of my favorites include Minecraft, Death Stranding, Valheim, webfishing & More :D
 </p>
     </div>
        </div>
