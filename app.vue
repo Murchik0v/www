@@ -1,13 +1,16 @@
 <template>
-  <div>
-    <NuxtPage />
-  </div>
+  <Head>
+    <Title>murchikov's homepage</Title>
+  </Head>
+  <Backdrop />
+        <NuxtPage />
 </template>
-<script setup lang="ts">
-useHead({
-  title: ':>',
-  meta: [
-    { name: 'description', content: 'Murchikov site.' }
-  ],
-})
+
+<script>
+import Backdrop from "~/components/Backdrop.vue";
+export default {
+  components: {
+    Backdrop
+  },
+};
 </script>
