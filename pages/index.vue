@@ -4,10 +4,10 @@
          <div class="relative mx-auto">
        <div class="circle-animation absolute -left-28 top-4">
     <div class="-z-10 w-[200px] h-[200px] rounded-full circle"></div></div></div>  
-      <div class="relative outline-dashed smooth-transition outline-4 outline-offset-4 outline-[#D3C8FF] rounded-3xl mx-auto">
+      <div class="relative outline-dashed smooth-transition outline-4 outline-offset-4 outline-[#375dc5] rounded-3xl mx-auto">
          <img src="/avatar.jpg" class="rounded-3xl w-32 h-32 "></div>
        <div class="grid gap-8 items-center">  
-     <h1 class="font-[Onest] text-neutral-100 text-4xl font-semibold">hi , i'm <span class="text-white">Murchikov</span></h1>
+     <h1 class="font-[Onest] text-neutral-100 text-4xl font-semibold">hi , i'm <span class="text-[#375dc5]">Murchikov</span></h1>
        <p class="font-[Overpass] text-neutral-500 max-w-3xl font-medium text-lg">
   Hii!  I'm <code v-html="formattedAge"></code> years
   old. programmer, frontend & more! I go by he/him, and I like to make things on the internet :] I enjoy messing around with hardware too! I also play several video games, some of my favorites include Minecraft, Death Stranding, Valheim, webfishing & More :D
