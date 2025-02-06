@@ -7,7 +7,7 @@
       <div class="relative outline-dashed smooth-transition outline-4 outline-offset-4 outline-[#f1f1f1] rounded-3xl mx-auto">
          <img src="https://avatars.githubusercontent.com/u/67903447?v=4" class="rounded-3xl w-32 h-32 "></div>
        <div class="grid gap-8 items-center">  
-     <h1 class="font-[Onest] text-neutral-100 text-4xl font-semibold">hi , i'm <span class="text-[#375dc5]">Murchikov</span></h1>
+     <h1 class="font-[Onest] text-neutral-100 text-4xl font-semibold">hi , i'm <span class="text-[#f1f1f1]">Murchikov</span></h1>
        <p class="font-[Overpass] text-neutral-500 max-w-3xl font-medium text-lg">
   Hii!  I'm <code v-html="formattedAge"></code> years
   old. programmer, frontend & more! I go by he/him, and I like to make things on the internet :] I enjoy messing around with hardware too! I also play several video games, some of my favorites include Minecraft, Death Stranding, Valheim, webfishing & More :D
