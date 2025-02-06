@@ -8,11 +8,11 @@ body {
 }
 
 .bg-main {
-  background-color: #020202;
+  background-color: #f1f1f1;
 }
 
 .circle {
-    background-color: #2b0da3;
+    background-color: #f1f1f1;
     filter: blur(110px);
     opacity: .6
 }
